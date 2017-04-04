@@ -1,5 +1,5 @@
 {
-    "name": "phpexiftool/phpexiftool",
+    "name": "phpexiftool/rphpexiftool",
     "type": "library",
     "description": "Exiftool driver for PHP",
     "keywords": ["metadata","exiftool"],
